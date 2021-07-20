@@ -1,12 +1,10 @@
 from flask import Flask, render_template, flash, request, redirect, url_for
 from werkzeug.utils import secure_filename
-from flask_sqlalchemy import SQLAlchemy
+
 import os
 import keras
 import numpy as np
 import librosa
-from pydub import AudioSegment
-import subprocess
 
 UPLOAD_FOLDER = 'Buffer'
 
