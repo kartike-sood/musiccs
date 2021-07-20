@@ -8,7 +8,7 @@ import librosa
 from pydub import AudioSegment
 import subprocess
 
-UPLOAD_FOLDER = 'C:\\Users\\Lenovo\\Flask_Deployment _DL\\Upload_Database'
+UPLOAD_FOLDER = 'Buffer'
 
 ALLOWED_EXTENSIONS = {'wav', 'mp3'}
 
@@ -25,7 +25,7 @@ mapping = {
     9 : "Rock"
 }
 
-model = keras.models.load_model('C:\\Users\\Lenovo\\.spyder-py3')
+model = keras.models.load_model('DL_Model')
 
 app = Flask(__name__)
 
