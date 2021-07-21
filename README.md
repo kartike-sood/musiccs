@@ -13,6 +13,8 @@ I have used python packages such as __tensorflow, keras, librosa, werkzeug__ and
 8. Pop
 9. Reggae
 10. Rock
+
+There isn't a database that I have used in this project, it's a buffer. As sson as the user reaches the end of the transaction, the audio file from the buffer gets deleted to save memory.
 ## How to use it?
 I have developed the whole project in my local environment, and if you want to use it right now, you will have to : 
 1. Clone the repository into your local environment
