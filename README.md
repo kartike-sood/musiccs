@@ -1,5 +1,5 @@
 # Genre_is_music
-## What is it, that this project does ?
+## What is it that this project does?
 This project allows you to upload any audio sample(it can be a song but for better results, it should be a song) and you will be able to see its "genre".
 ## How does it work?
 I have used python packages such as __tensorflow, keras, librosa, werkzeug__ and many more of their kind to develop a __deep learning__ model that can classify any song into 10 genres
