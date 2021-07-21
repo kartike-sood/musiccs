@@ -22,5 +22,5 @@ I have developed the whole project in my local environment, and if you want to u
 3. You will see a link __http://127.0.0.1:5000/__
 4. Click on it and you are good to go.
 
-Footnote : I will be deploying it very soon on a PAAS and will surely mention the working link in this readme file. Although I have tried to deploy this model on Microsoft Azure, but I am always getting some error. I am hopeful to resolve it.
+Footnote : I will be deploying it very soon on a PAAS(__P__ latform __A__ s __A__ __S__ ervice) or an IAAS(__I__ nterface __A__ s __A__ __S__ ervice) and will surely mention the working link in this readme file. Although I have tried to deploy this model on Microsoft Azure, but I am always getting some error. I am hopeful to resolve it.
 ### Production underway .......................................................................................................................................
