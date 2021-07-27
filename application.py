@@ -1,4 +1,4 @@
-from flask import Flask, render_template, flash, request, redirect, url_for
+from flask import Flask, render_template, request
 from werkzeug.utils import secure_filename
  
 import os
@@ -113,7 +113,7 @@ def upload_file():
 
             #     os.remove(filepath)
             #     filepath = new_filepath
-            #     # file.save(new_filepath)
+                # file.save(new_filepath)
             
 
             MFCCs = extractor(filepath)
