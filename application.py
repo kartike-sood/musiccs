@@ -1,8 +1,8 @@
 from flask import Flask, render_template, flash, request, redirect, url_for
 from werkzeug.utils import secure_filename
-
+ 
 import os
-import keras
+import tensorflow as tf
 import numpy as np
 import librosa
 
@@ -23,7 +23,7 @@ mapping = {
     9 : "Rock"
 }
 
-model = keras.models.load_model('DL_Model')
+model = tf.keras.models.load_model('DL_Model')
 
 app = Flask(__name__)
 
