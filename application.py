@@ -27,10 +27,6 @@ model = tf.keras.models.load_model('DL_Model')
 
 app = Flask(__name__)
 
-# app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///Songs_db.db'
-# app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
-# db = SQLAlchemy(app)
-
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
 SAMPLING_RATE = 22050
