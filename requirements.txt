@@ -9,11 +9,7 @@ lazy-object-proxy
 librosa 
 Markdown 
 MarkupSafe  
-numpy 
-openpyxl 
-path 
-pathlib2 
-pathtools 
+numpy==1.20
 pep8==1.7.1 
 pkginfo==1.7.1 
 requests 
