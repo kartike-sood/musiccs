@@ -3,7 +3,6 @@ Flask
 h5py==2.10.0  
 librosa  
 numpy==1.20
-pep8==1.7.1 
 SoundFile
 tensorflow>=2.4.0
 Werkzeug 
