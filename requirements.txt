@@ -2,9 +2,6 @@ audioread
 autopep8 
 Flask 
 h5py==2.10.0  
-json5 
-Keras-Preprocessing 
-lazy-object-proxy 
 librosa  
 numpy==1.20
 pep8==1.7.1 
