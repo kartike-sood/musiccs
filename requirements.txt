@@ -1,6 +1,6 @@
 Flask 
-h5py==2.10.0  
+h5py  
 librosa  
-numpy==1.20
-tensorflow>=2.4.0
+numpy
+tensorflow
 Werkzeug 
