@@ -1,6 +1,6 @@
 Flask 
 h5py  
 librosa  
-numpy
+numpy<=1.20
 tensorflow
 Werkzeug 
