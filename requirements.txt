@@ -1,6 +1,5 @@
-Flask 
-h5py  
+Flask   
 librosa  
-numpy<=1.20
+numpy
 tensorflow
-Werkzeug 
+Werkzeug
