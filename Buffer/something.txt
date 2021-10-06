@@ -1,0 +1,1 @@
+This file has been created just to avoid the Buffer folder from being deleted.
