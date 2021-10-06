@@ -1,5 +1,5 @@
 Flask   
 librosa  
-tensorflow
+tensorflow==2.4.0
 Werkzeug
 ffmpeg
